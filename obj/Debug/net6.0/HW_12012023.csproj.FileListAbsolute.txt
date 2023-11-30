@@ -1,0 +1,15 @@
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\HW_12012023.csproj.AssemblyReference.cache
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\HW_12012023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\HW_12012023.AssemblyInfoInputs.cache
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\HW_12012023.AssemblyInfo.cs
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\HW_12012023.csproj.CoreCompileInputs.cache
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\bin\Debug\net6.0\HW_12012023.exe
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\bin\Debug\net6.0\HW_12012023.deps.json
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\bin\Debug\net6.0\HW_12012023.runtimeconfig.json
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\bin\Debug\net6.0\HW_12012023.dll
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\bin\Debug\net6.0\HW_12012023.pdb
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\HW_12012023.dll
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\refint\HW_12012023.dll
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\HW_12012023.pdb
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\HW_12012023.genruntimeconfig.cache
+C:\Users\konstantin.merenkov\Documents\GeekBrains\Projects\Examples\HW_12012023\obj\Debug\net6.0\ref\HW_12012023.dll
